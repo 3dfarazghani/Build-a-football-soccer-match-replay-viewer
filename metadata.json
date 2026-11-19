@@ -1,0 +1,6 @@
+{
+  "name": "PitchLine 3D",
+  "description": "3D football match replay viewer for Metrica Sports tracking and event data using Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
